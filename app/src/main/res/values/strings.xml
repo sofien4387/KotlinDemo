@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoKotlin</string>
+    <string name="unknown_error">Error occured</string>
+</resources>
